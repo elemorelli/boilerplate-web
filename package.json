@@ -1,7 +1,7 @@
 {
-  "name": "elemorelli-web",
+  "name": "boilerplate-web",
   "version": "1.0.0",
-  "description": "",
+  "description": "A simple boilerplate project with parcel",
   "main": "dist/index.html",
   "scripts": {
     "dev": "parcel serve ./src/index.html",
@@ -9,12 +9,12 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/elemorelli/elemorelli-web.git"
+    "url": "git+https://github.com/elemorelli/boilerplate-web/"
   },
   "keywords": [],
   "author": "Eleazar Morelli Sangil",
   "license": "ISC",
-  "homepage": "https://www.elemorelli.com/",
+  "homepage": "https://github.com/elemorelli/boilerplate-web/",
   "devDependencies": {
     "node-normalize-scss": "^8.1.2",
     "parcel": "^2.0.0-nightly.481",
